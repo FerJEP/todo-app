@@ -5,7 +5,7 @@ import { TodoList } from './components/TodoList'
 
 export const App = () => {
   const [todos, setTodos] = useState<Todo[]>([
-    { name: 'tarea', complete: false },
+    { name: 'Do Homework', complete: false },
   ])
 
   const handleNewTodo: TodoHandler = todo => {
