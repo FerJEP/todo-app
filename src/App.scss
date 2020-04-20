@@ -1,0 +1,12 @@
+.delete-icon {
+  font-size: 1.35rem;
+  opacity: 0.5;
+  &:hover {
+    opacity: 1;
+  }
+}
+
+.completed {
+  text-decoration: line-through;
+  opacity: 0.5;
+}
