@@ -1,4 +1,4 @@
-# Todos App (React, TypeScript)
+# React Todos App 
 
 ## [Live demo](https://ferjep-todos-app.netlify.app/)
 
